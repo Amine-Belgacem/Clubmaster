@@ -4,15 +4,13 @@ Clubmaster is a FileMaker Pro project for managing club-related data and operati
 
 ## Overview
 
-The project includes:
+The project includes the main FileMaker database file and supporting project assets.
 
-- [clubmaster.fmp12](clubmaster.fmp12): the main FileMaker project file
-- [img/clubmaster.png](img/clubmaster.png): a screenshot of the interface
+![Clubmaster interface](img/clubmaster.png)
 
 ## What this project provides
 
 - A FileMaker-based database structure for club management
-- A visual reference for the application layout
 - Project files that can be opened and customized in FileMaker Pro
 
 ## Requirements
